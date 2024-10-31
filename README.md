@@ -6,3 +6,11 @@ The STlink V2 clone has 10 pins :
 |:---:|:---:|
 |1| RESET|
 |2| GND|
+|3| SWIM|
+|4| +3.3V|
+|5| +5V|
+|6| SWDIO|
+|7| GND|
+|8| SWCLK|
+|9| +3.3V|
+|10| +5V|
