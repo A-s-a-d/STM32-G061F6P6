@@ -15,6 +15,7 @@ The STlink V2 clone has 10 pins :
 |8| SWCLK|
 |9| +3.3V|
 |10| +5V|
+
 The microntroller has the following pin out : 
 ![image](https://github.com/user-attachments/assets/99e4d364-efce-471a-b7d3-4f58dbd48f90)
 
