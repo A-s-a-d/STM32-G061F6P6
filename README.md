@@ -19,4 +19,7 @@ The STlink V2 clone has 10 pins :
 The microntroller has the following pin out : 
 ![image](https://github.com/user-attachments/assets/99e4d364-efce-471a-b7d3-4f58dbd48f90)
 
-Our microntroller has the voltage range from 1.7 V to 3.6 V so we can power it through 3.3V of STlink, but this needs to be used carefully especially if the microcontroller is going to be powered externally.
+Our microntroller has the voltage range from 1.7 V to 3.6 V so we can power it through 3.3V of STlink, but this needs to be used carefully especially if the microcontroller is going to be powered externally.i'm planning to power my microcontroller externally so i'll be only using 3 of the pins of STlink V2 clone. Those pins being : GND, SWDIO, SWCLK. 
+
+## Powering
+I'm going to use a USB C breakout board with 5V, D+, D- and GND pin and then regulate that voltage to 3.3V to power the microcontroller.
