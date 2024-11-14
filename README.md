@@ -31,7 +31,7 @@ Here is the diagram of our power circuit :
 ![image](https://github.com/user-attachments/assets/f617318d-1e61-489a-99f6-ee54f0ec2787) 
 ![image](https://github.com/user-attachments/assets/1c3fdedb-12ef-4def-916e-59a98fa382ea)
 
-As we can see that this circuit allows us to provid up to 900mA of power at 3.3V which should be enough for our STM32 and other low power components like LEDS,...etc.
+As we can see in the [Simulation](https://github.com/A-s-a-d/STM32-G061F6P6-Learning/tree/Wiring-and-powering/Electronics_simulations%20and%20circuits/3.3V%20power) using LTSPICE that this circuit allows us to provid up to 900mA of power at 3.3V which should be enough for our STM32 and other low power components like LEDS,...etc.
 
 
 
