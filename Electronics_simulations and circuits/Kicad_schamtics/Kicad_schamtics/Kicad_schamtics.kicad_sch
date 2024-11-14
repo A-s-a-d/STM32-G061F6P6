@@ -1993,6 +1993,16 @@
 	)
 	(wire
 		(pts
+			(xy 157.48 119.38) (xy 163.83 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c9bf5aa2-4712-460d-996b-ee5fe8305f5e")
+	)
+	(wire
+		(pts
 			(xy 39.37 24.13) (xy 41.91 24.13)
 		)
 		(stroke
@@ -2000,6 +2010,16 @@
 			(type default)
 		)
 		(uuid "da3d9c4d-91f5-4a2e-aea7-77a3253bd584")
+	)
+	(wire
+		(pts
+			(xy 157.48 116.84) (xy 163.83 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e1351638-5a8e-438d-911b-314d8fde56e5")
 	)
 	(wire
 		(pts
@@ -2068,6 +2088,17 @@
 		)
 		(uuid "f9abfd2c-6a16-48e8-aead-d925b65b0976")
 	)
+	(label "SYS_SWCLK"
+		(at 163.83 119.38 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "045b1b50-d3e8-411e-a536-24dd3d418a7a")
+	)
 	(label "3.3V"
 		(at 87.63 24.13 0)
 		(fields_autoplaced yes)
@@ -2078,6 +2109,17 @@
 			(justify left bottom)
 		)
 		(uuid "7fab4889-83ae-47ca-abe6-ff37bc98eafe")
+	)
+	(label "SYS_SWDIO"
+		(at 163.83 116.84 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "95c5e549-f0af-48fe-8384-678b6327459f")
 	)
 	(label "3.3V"
 		(at 137.16 76.2 0)
