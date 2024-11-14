@@ -27,7 +27,8 @@ I'm going to use a USB C breakout board with 5V, D+, D- and GND pin and then reg
 to do this i'm going to be using the AMS1117 lineaire adjustable voltage regulator that will provid stable 3.3V.
 
 Here is the diagram of our power circuit i used LT1117 for diagram since LTspice didnt have AMS1117 but both of them are almost similar: 
-![image](https://github.com/user-attachments/assets/fa44504f-524a-4e61-b9a7-b70b364e04fb)
+
+![image](https://github.com/user-attachments/assets/49c7dc25-3aed-4617-b856-9789b6b5bf87)
 ![image](https://github.com/user-attachments/assets/f617318d-1e61-489a-99f6-ee54f0ec2787) 
 ![image](https://github.com/user-attachments/assets/1c3fdedb-12ef-4def-916e-59a98fa382ea)
 
