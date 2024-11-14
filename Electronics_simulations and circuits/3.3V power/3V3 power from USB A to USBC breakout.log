@@ -1,6 +1,6 @@
 LTspice 24.0.12 for Windows
-Circuit: * C:\Users\asad1\OneDrive\Documentos\GitHub\STM32-G061F6P6-Learning\Electronics_simulations and circuits\3V3 power from USB A to USBC breakout.asc
-Start Time: Thu Nov 14 18:28:26 2024
+Circuit: * C:\Users\asad1\OneDrive\Documentos\GitHub\STM32-G061F6P6-Learning\Electronics_simulations and circuits\3.3V power\3V3 power from USB A to USBC breakout.asc
+Start Time: Thu Nov 14 19:07:47 2024
 solver = Normal
 Maximum thread count: 8
 tnom = 27
@@ -29,5 +29,5 @@ Gmin = 2.70769e-13
 Gmin = 0
 Gmin stepping succeeded in finding the operating point.
 
-Total elapsed time: 0.149 seconds.
+Total elapsed time: 0.067 seconds.
 
